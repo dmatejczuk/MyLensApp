@@ -2,7 +2,7 @@
 Simple barcode scanner using Android Studio
 ## License
 
-Copyright © [dmatejczuk] [2025]. **All Rights Reserved.**
+Copyright © dmatejczuk 2025. **All Rights Reserved.**
 
 All rights reserved. The source code, content, and other assets in this repository are protected by copyright laws. 
 
